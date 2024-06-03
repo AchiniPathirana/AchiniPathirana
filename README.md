@@ -15,6 +15,7 @@ src="https://camo.githubusercontent.com/800e1ce79aaa78d4e4d5eb324dfb2a8bb0164a42
 - 🌱 I’m currently learning **MERN Stack**  
 - 💬 Ask me about **Java, Python, Kotlin, React**  
 - 📫 How to reach me: **achinitharushapathirana@gmail.com**
+- 👩‍💻 I'm actively seeking an internship opportunity as a software engineer where I can apply my skills in full-stack development, web development, and mobile app development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
